@@ -24,16 +24,6 @@ I enjoy modeling data and working with **SQL and NoSQL databases** (PostgreSQL, 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">Working</h2>
-
-<div>
-  <p align="left">
-    <a href="https://github.com/Wil-JsDev/MetaBond-Backend">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Wil-JsDev&repo=MetaBond-Backend&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-  </p>
-</div>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 **Azure:** Azure Functions · App Service · Service Bus · Storage (Blob / Queue / Table) · Key Vault · Application Insights  
