@@ -10,6 +10,9 @@
 Hi, I'm **Wilmer De La Cruz** 👋  
 Backend Developer | Software Architecture Enthusiast | Azure Cloud  
 
+**Azure:** Azure Functions · App Service · Service Bus · Storage · Key Vault · Application Insights  
+**Architecture:** Microservices · Modular Monolith  
+
 I work with **Microsoft Azure PaaS**, building **serverless solutions with Azure Functions** and integrating managed services such as **App Service, Service Bus, Storage and Key Vault**.  
 
 I design backend systems with a strong focus on **software architecture**, mainly **Microservices** and **Modular Monoliths**, using **RabbitMQ** and **Kafka** for asynchronous, event-driven communication between services.  
@@ -25,10 +28,6 @@ I enjoy modeling data and working with **SQL and NoSQL databases** (PostgreSQL, 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-**Azure:** Azure Functions · App Service · Service Bus · Storage (Blob / Queue / Table) · Key Vault · Application Insights  
-**Architecture:** Microservices · Modular Monolith  
-
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes,angular,nestjs,react,azure,rabbitmq,kafka,grafana)](https://skillicons.dev)
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
