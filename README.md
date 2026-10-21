@@ -8,16 +8,19 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 Hi, I'm **Wilmer De La Cruz** 👋  
-💻 Backend Developer | Software Architecture Enthusiast | Azure Cloud  
+Backend Developer | Software Architecture Enthusiast | Azure Cloud  
 
-🏛️ I design and build backend systems with a strong focus on **software architecture**: **Clean Architecture**, **DDD**, **CQRS**, **event-driven design** and **microservices**, always aiming for code that is maintainable, testable and ready to scale.  
-☁️ I work with **Microsoft Azure PaaS**, building **serverless solutions with Azure Functions** and integrating managed services such as **App Service, Service Bus, Storage and Key Vault**.  
-⚙️ My main stack is **C# / .NET**, complemented by **Docker, Kubernetes and CI/CD with GitHub Actions** to deliver reliable, automated deployments.  
-🗄️ I enjoy modeling data and working with **SQL and NoSQL databases** (PostgreSQL, MongoDB, Redis), understanding how every piece connects to build resilient systems.  
+I work with **Microsoft Azure PaaS**, building **serverless solutions with Azure Functions** and integrating managed services such as **App Service, Service Bus, Storage and Key Vault**.  
 
-🎯 **Currently focused on:** cloud-native architecture on Azure, distributed systems patterns and observability.  
+I design backend systems with a strong focus on **software architecture**, mainly **Microservices** and **Modular Monoliths**, using **RabbitMQ** and **Kafka** for asynchronous, event-driven communication between services.  
 
-🌱 *"Good architecture makes the system easy to change. Continuous learning makes the architect."*  
+My main stack is **C# / .NET**, complemented by **Docker, Kubernetes and CI/CD with GitHub Actions** to deliver reliable, automated deployments.  
+
+I enjoy modeling data and working with **SQL and NoSQL databases** (PostgreSQL, MongoDB, Redis), understanding how every piece connects to build resilient systems.  
+
+**Currently focused on:** cloud-native architecture on Azure, distributed systems and observability.  
+
+*"Good architecture makes the system easy to change. Continuous learning makes the architect."*  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -32,10 +35,12 @@ Hi, I'm **Wilmer De La Cruz** 👋
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes,angular,nestjs,react,azure)](https://skillicons.dev)
 
-**☁️ Azure:** Azure Functions · App Service · Service Bus · Storage (Blob / Queue / Table) · Key Vault · Application Insights  
-**🏛️ Architecture:** Clean Architecture · DDD · CQRS · Event-Driven · Microservices · Serverless · SOLID & Design Patterns  
+**Azure:** Azure Functions · App Service · Service Bus · Storage (Blob / Queue / Table) · Key Vault · Application Insights  
+**Architecture:** Microservices · Modular Monolith  
+**Messaging:** RabbitMQ · Kafka · Azure Service Bus  
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes,angular,nestjs,react,azure)](https://skillicons.dev)
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
