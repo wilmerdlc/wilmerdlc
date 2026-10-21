@@ -30,7 +30,7 @@ I enjoy modeling data and working with **SQL and NoSQL databases** (PostgreSQL, 
 **Architecture:** Microservices · Modular Monolith  
 **Messaging:** RabbitMQ · Kafka · Azure Service Bus  
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes,angular,nestjs,react,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,css,html,ts,postgres,redis,mongodb,docker,githubactions,kubernetes,angular,nestjs,react,azure,rabbitmq,kafka)](https://skillicons.dev)
 
 ## <b>Socials!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 
