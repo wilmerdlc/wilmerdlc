@@ -8,7 +8,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
 Hi, I'm **Wilmer De La Cruz** 👋  
-Backend Developer | Software Architecture Enthusiast | Azure Cloud  
+Backend Developer | Software Architecture Enthusiast
 
 **Azure:** Azure Functions · App Service · Service Bus · Storage · Key Vault · Application Insights  
 **Architecture:** Microservices · Modular Monolith  
